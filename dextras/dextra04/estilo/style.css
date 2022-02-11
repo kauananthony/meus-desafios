@@ -6,7 +6,6 @@
 }
 
 * {
-    font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
     padding: 0px;
 }
@@ -14,18 +13,20 @@
 :root {
     /* Cores */
 
-    --cor0: #F15121;
-    --cor1: #7EB801;
-    --cor2: #00A3EE;
-    --cor3: #FFB700;
+    --cor0: #f15121;
+    --cor1: #7eb801;
+    --cor2: #00a3ee;
+    --cor3: #ffb700;
+    --cor4: #15E6CD;
 
     /* Fontes */
 
     --fonte-destaque: 'fonte microsoft';
+    --fonte-padrao: Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: white;
+    background-color: var(--cor4);
 }
 
 header {
@@ -34,29 +35,46 @@ header {
 }
 
 header > h1 {
-    font-family: var(--fonte-destaque);
+    font: normal bolder 3em var(--fonte-destaque);
     text-align: center;
-    font-size: 3em;
     color: var(--cor2);
 }
 
+header > nav {
+    padding: 10px 0px;
+}
+
 header a {
+    color: var(--cor2);
+    font: normal bolder 16px var(--fonte-padrao);
     text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+header a:hover {
+    background-color: var(--cor2);
+    color: var(--cor0);
+    transition-duration: 0.5s;
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 90%;
     height: 800px;
     margin: auto;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 footer {
-    background-color: var(--cor1);
+    background-color: var(--cor0);
     margin-top: 10px;
 }
 
 footer > p {
-    color: var(--cor3);
+    font: normal bolder 16px var(--fonte-padrao);
     text-align: center;
+    color: var(--cor2);
+    padding: 5px;
 }
