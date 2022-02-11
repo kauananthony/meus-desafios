@@ -9,7 +9,7 @@ A Microsoft é uma empresa fundada por [destaque]Bill Gates[/destaque] e [destaq
 
 O Começo
 
-A Microsoft, como o nome já diz, micro vem de, traduzido do Inglês, fica micro e soft vem de software, Então, Juntando as duas palavras fica que a Microsoft foi uma empresa criado para o fim de vender pequenos softwares.
+A Microsoft, como o nome já diz, micro vem de microprocessador e soft vem de software, Então, Juntando as duas palavras fica que a Microsoft foi uma empresa criado para o fim de vender pequenos softwares.
 
 Inicialmente, o Objetivo de Bill Gates e Paul Allen era de desenvolver um software para o [Link]Altair 8800[/Link].
 

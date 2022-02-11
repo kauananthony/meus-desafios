@@ -1,6 +1,12 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family: 'fonte microsoft';
+    src: url('../fontes/computer-pixel-7/computer_pixel-7.ttf');
+}
+
 * {
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
     padding: 0px;
 }
@@ -12,6 +18,10 @@
     --cor1: #7EB801;
     --cor2: #00A3EE;
     --cor3: #FFB700;
+
+    /* Fontes */
+
+    --fonte-destaque: 'fonte microsoft';
 }
 
 body {
@@ -24,8 +34,14 @@ header {
 }
 
 header > h1 {
-    color: var(--cor2);
+    font-family: var(--fonte-destaque);
     text-align: center;
+    font-size: 3em;
+    color: var(--cor2);
+}
+
+header a {
+    text-decoration: none;
 }
 
 main {
