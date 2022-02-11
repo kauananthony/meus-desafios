@@ -3,18 +3,32 @@ A História da Micrsosoft
 
 O que é?
 
-A Microsoft é uma empresa fundada por Bill Gates e Paul Allen, no dia 4 de abril de 1975, em Albuquerque, Novo México, EUA (Estados Unidos da América). É uma empresa que tem finalidade de vender [Link]softwares[/Link].
+[imagem]
+
+A Microsoft é uma empresa fundada por [destaque]Bill Gates[/destaque] e [destaque]Paul Allen[/destaque], no dia 4 de abril de 1975, em Albuquerque, Novo México, EUA (Estados Unidos da América). É uma empresa que tem finalidade de vender [Link]softwares[/Link].
 
 O Começo
 
-A Microsoft, como o nome já diz, Micro, traduzido do Inglês, fica Micro e Soft vem de Software, Então, Juntando as duas palavras fica que a Microsoft foi uma empresa criado para o fim de vender pequenos softwares.
+A Microsoft, como o nome já diz, micro vem de, traduzido do Inglês, fica micro e soft vem de software, Então, Juntando as duas palavras fica que a Microsoft foi uma empresa criado para o fim de vender pequenos softwares.
 
-Inicialmente, o Objetivo de Bill Gates e Paul Allen era de desenvolver um software para o Altair 8800.
+Inicialmente, o Objetivo de Bill Gates e Paul Allen era de desenvolver um software para o [Link]Altair 8800[/Link].
+
+O primeiro produto desenvolvido pela Microsoft foi um Interpretador Basic, para o computador [Link]Altair[/Link]
+
+Mas não vá pensando que o Primeiro Sistema Operacional Desenvolvida pela Microsoft foi o Windows, na verdade, a Microsoft comprou um sistema operacional que foi o MS-DOS que, na época, dominou o mercado de sistemas operacionais para computadores pessoais.
+
+a Microsoft comprou 
 
 A Criação do Windows
+
+[imagem]
 
 A Criação do Pacote Office
 
 Microsoft Vs Apple
+
+As Compras da Microsoft
+
+
 
 Microsoft Vs Sony
