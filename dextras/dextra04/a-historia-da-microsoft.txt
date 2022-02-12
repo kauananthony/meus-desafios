@@ -1,34 +1,86 @@
 
+[h1]
 A História da Micrsosoft
+[/h1]
 
+[h2]
 O que é?
+[/h2]
 
 [imagem]
 
-A Microsoft é uma empresa fundada por [destaque]Bill Gates[/destaque] e [destaque]Paul Allen[/destaque], no dia 4 de abril de 1975, em Albuquerque, Novo México, EUA (Estados Unidos da América). É uma empresa que tem finalidade de vender [Link]softwares[/Link].
+A Microsoft é uma empresa fundada por [destaque]Bill Gates[/destaque] e [destaque]Paul Allen[/destaque], no dia 4 de abril de 1975, em Albuquerque, Novo México, EUA (Estados Unidos da América). É uma das grandes empresas de tecnologia atualmente.
 
+[h2]
 O Começo
+[/h2]
 
 A Microsoft, como o nome já diz, micro vem de microprocessador e soft vem de software, Então, Juntando as duas palavras fica que a Microsoft foi uma empresa criado para o fim de vender pequenos softwares.
 
-Inicialmente, o Objetivo de Bill Gates e Paul Allen era de desenvolver um software para o [Link]Altair 8800[/Link].
+A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen. O primeiro produto desenvolvido pela empresa foi uma versão do interpretador BASIC, para o computador Altair 8800 da MITS. Em 1976 é lançado o Microsoft FORTRAN, para computadores baseados em CP/M.[19]
 
-O primeiro produto desenvolvido pela Microsoft foi um Interpretador Basic, para o computador [Link]Altair[/Link]
+Em 1980, a IBM planejava lançar seu computador pessoal com o sistema CP/M, mas as negociações com a Digital Research falham e a IBM procura a Microsoft para desenvolver o seu sistema operacional. Sem ter um sistema para entregar, a Microsoft acerta um contrato não exclusivo de licenciamento com a IBM e procura a Seattle Computers para comprar o seu sistema Q-DOS. Em 1982 a Microsoft começa a desenvolver aplicações para o Macintosh da Apple, lança o Microsoft COBOL e a planilha eletrônica Multiplan para MS-DOS.[19] No ano seguinte anuncia o Microsoft Word e o Microsoft Windows. Em 1985 a Microsoft e a IBM assinam acordo para desenvolvimento conjunto de um futuro sistema operacional, no mesmo ano lança o Microsoft Windows 1.0 por 99 dólares. Em 1987 a Microsoft compra o programa de apresentações PowerPoint e lança a planilha eletrônica Excel. Em 1988 a Apple acusa a Microsoft de plágio sobre o seu Macintosh OS (contudo este se baseia no sistema gráfico do Xerox Alto) com o Windows 2.0, mas no ano seguinte formam uma aliança para desenvolver o padrão de fontes TrueType.
 
-Mas não vá pensando que o Primeiro Sistema Operacional Desenvolvida pela Microsoft foi o Windows, na verdade, a Microsoft comprou um sistema operacional que foi o MS-DOS que, na época, dominou o mercado de sistemas operacionais para computadores pessoais.
-
-a Microsoft comprou 
-
+[h2]
 A Criação do Windows
+[/h2]
 
 [imagem]
 
-A Criação do Pacote Office
+Bill Gates era um studante fascinado por computadores a estudar lógica e linguagem de programação. Junto ao seu amigo, Paul Allen, os dois desenvolvem um sistema operacional para o computador Altair, este seria o começo do grande sucesso de Bill Gates.
 
-Microsoft Vs Apple
+Em contra partida, tinhamos Steve Jobs, que, junto ao Steve Wozniak e sua empresa, a Apple, desenvolveram um computador pessoal com diversas inovações, como um computador com gráficos, Mouse e outras inovações para a época.
 
+Bill Gates, com o passar do tempo, percebe que o seu sistema desenvolvido em Fortran para o Altair era inútil para o novo conceito de PCs, então compra o sistema da Companhia Seattle e o denomina de DOS, este novo sistema fazia a comunicação entre usuário e máquina via linha de comando e era distribuído na nova linha de computadores da IBM. Mas ao saber da existência de um sistema gráfico no Macintosh, Bill determina a seus programadores que criem um sistema semelhante, então foi criado o Windows.
+
+[h2]
+O Pacote Office
+[/h2]
+
+outra coisa que a Microsoft se destacou e ainda se destaca hoje em dia é o Pacote Office, aquele que contém Word, Excel, PowerPoint e diversos outros serviços oferecidos pela Microsoft. serviços esses relacionados a produtividade.
+
+[h2]
+A Saída de Bill Gates da Liderança da Micrsosoft
+[/h2]
+
+Bill Gates saiu do cargo de CEO da Microsoft em 2000, 25 anos após fundar a empresa com Paul Allen. Depois do escândalo envolvendo a funcionária, ele afirmou que desejava dedicar mais tempo às suas atividades filantrópicas, e é o que tem feito. Mesmo após o divórcio, ele e sua ex-esposa têm trabalhado juntos na Fundação Bill e Melinda Gates.
+
+O cofundador e ex-CEO da Microsoft, Bill Gates, deixou o cargo de membro do conselho da empresa em 2020. O bilionário encontrava-se no cargo desde 2014 e, anteriormente, também foi presidente do conselho da Microsoft. Gates renunciou em março de 2020, após o início de uma investigação sobre um caso extraconjugal com uma engenheira de software da companhia.
+
+hoje em dia, o atual CEO da Micrsosoft é o Satya Nadella.
+
+[h2]
 As Compras da Microsoft
+[/h2]
 
+ao longo dos anos, a Micrsosoft fez diversas compras, das principais e mais caras compras que a Micrsosoft já fez, podemos citar:
 
+[li]
+10. Visio Corporation (US$ 1,37 bilhão)
 
+9. Mojang (US$ 2,5 bilhões)
+
+8. aQuantive (US$ 6,3 bilhões)
+
+7. Nokia Mobile (US$ 7,2 bilhões)
+
+6. Github (US$ 7,5 bilhões)
+
+5. ZeniMax Media (US$ 8,1 bilhões)
+
+4. Skype Technologies (US$ 8,5 bilhões)
+
+3. Nuance Communications (US$ 19,7 bilhões)
+
+2. LinkedIn (US$ 26,2 bilhões)
+
+1. Activision Blizzard (US$ 68,7 bilhões)
+[/li]
+
+[h2]
 Microsoft Vs Sony
+[/h2]
+
+[imagem]
+
+algum tempo depois de ter lançado seus produtos e ter se consolidado em uma grande empresa, a Microsoft, em 15 de novembro de 2001, decide lançar o seu primeiro console, o Xbox, que foi um rival da playstation 2, não tão somente foi como ainda continua sendo uma grande rival da Sony, com a nova geração de console, a Microsoft decide lançar o Xbox Series X/S, que, hoje em dia, é concorrente do Playstation 5.
