@@ -30,22 +30,21 @@ body {
 }
 
 header {
-    background-color: var(--cor0);
+    background-color: var(--cor2);
     margin-bottom: 10px;
 }
 
 header img {
     display: inline;
     width: 30px;
-    padding: 20px 20px 0px 20px;
+    padding: 20px 10px 0px 20px;
 }
 
 header > h1 {
     display: inline;
-    font: normal bolder 3em var(--fonte-destaque);
-    text-align: center;
-    color: var(--cor2);
-    padding: 20px 20px 0px 20px;
+    font: normal bolder 3.6em var(--fonte-destaque);
+    color: white;
+    padding: 20px 20px 0px 10px;
 }
 
 header > nav {
@@ -53,7 +52,7 @@ header > nav {
 }
 
 header a {
-    color: var(--cor2);
+    color: white;
     font: normal bolder 16px var(--fonte-padrao);
     text-decoration: none;
     padding: 10px;
@@ -61,8 +60,8 @@ header a {
 }
 
 header a:hover {
-    background-color: var(--cor2);
-    color: var(--cor0);
+    background-color: var(--cor1);
+    color: var(--cor2);
     transition-duration: 0.5s;
 }
 
@@ -75,7 +74,8 @@ main {
 }
 
 main h2 {
-    font: normal bolder 32px var(--fonte-padrao);
+    font: normal bolder 3.2em var(--fonte-destaque);
+    color: var(--cor2);
     margin-bottom: 15px;
 }
 
@@ -85,6 +85,24 @@ main p {
     text-align: justify;
     line-height: 1.7em;
     margin-bottom: 15px;
+}
+
+main a {
+    font: normal bolder 16px var(--fonte-padrao);
+    color: var(--cor0);
+    text-decoration: none;
+}
+
+main a:hover {
+    background-color: var(--cor3);
+    text-decoration: underline;
+    transition-duration: 0.5s;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+main a::after {
+    content: '  \2328';
 }
 
 main img#microsoft {
@@ -99,9 +117,14 @@ main img {
     margin: 30px auto;
 }
 
+main strong {
+    color: var(--cor4);
+}
+
 main ol {
     font: normal normal 16px var(--fonte-padrao);
     list-style-position: inside;
+    columns: 2;
 }
 
 ol li {
@@ -109,13 +132,13 @@ ol li {
 }
 
 footer {
-    background-color: var(--cor0);
+    background-color: var(--cor2);
     margin-top: 10px;
 }
 
 footer > p {
     font: normal bolder 16px var(--fonte-padrao);
     text-align: center;
-    color: var(--cor2);
+    color: white;
     padding: 5px;
 }
