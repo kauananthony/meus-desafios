@@ -6,18 +6,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Testando o Posicionamento de caixas</title>
     <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        body {
+            background-color: gray;
+        }
+
         header {
             background-color: black;
+            width: 100%;
+            height: 50px;
+        }
+
+        menu {
+            background-color: black;
+            width: 10px;
+            height: 500px;
+        }
+
+        main {
+            position: relative;
+            background-color: white;
+            width: 90%;
+            margin: 30px auto;
+            bottom: 450px;
         }
 
         footer {
             background-color: black;
+            width: 100%;
+            height: 20px;
         }
     </style>
 </head>
 <body>
     <header>
-
+        <h1>
+            lorem ipsu dolor
+        </h1>
     </header>
 
     <menu>
@@ -25,7 +54,29 @@
     </menu>
 
     <main>
+        <article>
+            <h1>
+                lorem ipsu dolor
+            </h1>
 
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia veniam possimus, reprehenderit molestias nam expedita eos accusantium asperiores explicabo aspernatur inventore ipsa aliquam labore autem veritatis debitis doloribus, dolores magni!
+            </p>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quo debitis repellat, earum voluptates magni itaque dignissimos ipsa distinctio, atque molestias facere repellendus eligendi natus dolor laboriosam, eaque aut? Error.</p>
+
+            <h2>
+                lorem ipsu dolor
+            </h2>
+
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam assumenda quis, dolorem, eum maiores autem sequi eaque aspernatur, iure perferendis qui asperiores nulla nesciunt nobis quasi consequuntur magni deserunt dolores?
+            </p>
+
+            <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam incidunt totam, in maxime quidem dolore at porro nisi ullam! Minima vero, exercitationem labore praesentium deleniti consequuntur? Nulla modi quos sit.
+            </p>
+        </article>
     </main>
 
     <footer>
