@@ -116,6 +116,20 @@ main strong {
     color: var(--cor4);
 }
 
+main div.video {
+    position: relative;
+    padding-bottom: 58%;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 8%;
+    left: 10%;
+    width: 80%;
+    height: 78%;
+    border-radius: 5px;
+}
+
 main ol {
     font: normal normal 16px var(--fonte-padrao);
     list-style-position: inside;
