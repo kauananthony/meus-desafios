@@ -7,50 +7,84 @@
     <title>Testando o Posicionamento de caixas</title>
     <style>
         * {
+            font-family: Arial, Helvetica, sans-serif;
             margin: 0px;
             padding: 0px;
         }
 
         body {
+            display: grid;
+            grid-template-columns: 0fr 1fr;
+            grid-template-areas: "h h"
+            "me ma"
+            "f f";
             background-color: gray;
         }
 
         header {
-            background-color: black;
+            background-color: blue;
+            color: white;
+            text-align: center;
             width: 100%;
-            height: 50px;
+            padding: 20px;
+            grid-area: h;
         }
 
         menu {
-            background-color: black;
-            width: 10px;
-            height: 500px;
+            background-color: red;
+            color: white;
+            width: 120px;
+            grid-area: me;
+        }
+
+        menu ul {
+            list-style-position: inside;
+            list-style-type: none;
         }
 
         main {
-            position: relative;
             background-color: white;
-            width: 90%;
+            width: 75%;
             margin: 30px auto;
-            bottom: 450px;
+            padding: 30px;
+            grid-area: ma;
+        }
+
+        main h1, h2 {
+            text-indent: 15px;
+            margin-bottom: 10px;
+        }
+
+        main p {
+            text-align: justify;
+            text-indent: 30px;
+            line-height: 1.5em;
+            margin-bottom: 10px;
         }
 
         footer {
-            background-color: black;
+            background-color: green;
+            color: white;
+            text-align: center;
             width: 100%;
-            height: 20px;
+            grid-area: f;
         }
     </style>
 </head>
 <body>
     <header>
         <h1>
-            lorem ipsu dolor
+            Testando o CSS grid
         </h1>
     </header>
 
     <menu>
-
+        <ul>
+            <li>Home</li>
+            <li>Sobre</li>
+            <li>Curiosidades</li>
+            <li>Contato</li>
+        </ul>
     </menu>
 
     <main>
@@ -60,27 +94,27 @@
             </h1>
 
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia veniam possimus, reprehenderit molestias nam expedita eos accusantium asperiores explicabo aspernatur inventore ipsa aliquam labore autem veritatis debitis doloribus, dolores magni!
-            </p>
-
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quo debitis repellat, earum voluptates magni itaque dignissimos ipsa distinctio, atque molestias facere repellendus eligendi natus dolor laboriosam, eaque aut? Error.</p>
-
-            <h2>
-                lorem ipsu dolor
-            </h2>
-
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam assumenda quis, dolorem, eum maiores autem sequi eaque aspernatur, iure perferendis qui asperiores nulla nesciunt nobis quasi consequuntur magni deserunt dolores?
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque rerum odit vitae dicta delectus, quos nemo laudantium, cumque autem nesciunt deleniti quibusdam ad quaerat veniam voluptatum molestias consequatur nihil temporibus!
             </p>
 
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam incidunt totam, in maxime quidem dolore at porro nisi ullam! Minima vero, exercitationem labore praesentium deleniti consequuntur? Nulla modi quos sit.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur ducimus fuga laboriosam deleniti architecto dolor dolore itaque nisi quaerat quia? Ipsam, nam! Odit doloremque totam temporibus reiciendis mollitia sit. Nesciunt.
+            </p>
+
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi qui animi reiciendis eius ratione sequi eligendi magni pariatur. Eveniet quis nemo, quaerat ipsa eaque mollitia voluptate saepe recusandae pariatur laudantium?
+            </p>
+            
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores iusto assumenda aperiam deserunt at. Ab, labore numquam! Porro voluptatibus quisquam qui quidem, corrupti ut expedita, omnis eum aperiam facere quis.
             </p>
         </article>
     </main>
 
     <footer>
-
+        <p>
+            Site Criado por Kauan Machado
+        </p>
     </footer>
 </body>
 </html>
